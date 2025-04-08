@@ -1,0 +1,17 @@
+[
+    {
+    "id": 1,
+    "username":"practice",
+    "password":"SuperSecretPassword!"
+    },
+    {
+    "id": 2,
+    "username":"practice",
+    "password":"wrongpassword"
+    },
+    {
+    "id": 3,
+    "username":"wronguser",
+    "password":"SuperSecretPassword!"
+    }
+]
